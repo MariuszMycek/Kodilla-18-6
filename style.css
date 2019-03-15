@@ -1,0 +1,20 @@
+.counter-wrapper {
+    width: 100%;
+    max-width: 768px;
+    margin: 0 auto;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.counter {
+    display: inline-block;
+    margin-right: 10px;
+    width: 30px;
+    text-align: right;
+}
+
+.button {
+    margin-left: 10px;
+    width: 25px;
+    height: 25px;
+}
