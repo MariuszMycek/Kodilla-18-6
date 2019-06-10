@@ -1,1 +1,1 @@
-https://mariuszmycek.github.io/Kodilla-18-6/
+https://mariuszmycek.github.io/Kodilla-18-6-state-and-component-lifecycle/
